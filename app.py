@@ -33,4 +33,4 @@ def predict_step(image_paths):
   return preds
 
 
-predict_step(['test.jpg'])
+predict_step(['test.jpeg'])
